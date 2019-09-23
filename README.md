@@ -1,5 +1,5 @@
 # batchDownloadFromWeb
-# 1.将本地工程推导github上
+# 1.将本地工程推到github上
 1.1VCS-> import into version control-> share project on github
 
 1.2更新：VCS->commit, VCS->git->push
